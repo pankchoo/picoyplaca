@@ -1,0 +1,13 @@
+#preguntas{
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-top: 70px;
+}
+.container{
+	text-align: center;
+	width: 500px;
+}
+#boton{
+	position: absolute;
+	margin-left: 990px;
+}
